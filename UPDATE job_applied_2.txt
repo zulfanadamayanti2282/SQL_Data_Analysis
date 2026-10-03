@@ -1,0 +1,42 @@
+UPDATE job_applied_2
+SET contact = 'Erlich Bachman'
+WHERE job_id = 1;
+
+UPDATE job_applied_2
+SET contact = 'Richard Hendricks'
+WHERE job_id = 2;
+
+UPDATE job_applied_2
+SET contact = 'Monica Hall'
+WHERE job_id = 3;
+
+UPDATE job_applied_2
+SET contact = 'Dinesh Chugtai'
+WHERE job_id = 4;
+
+UPDATE job_applied_2
+SET contact = 'Bertram Gilfoyle'
+WHERE job_id = 5;
+
+UPDATE job_applied_2
+SET contact = 'Jared Dunn'
+WHERE job_id = 6;
+
+UPDATE job_applied_2
+SET contact = 'Gavin Belson'
+WHERE job_id = 7;
+
+UPDATE job_applied_2
+SET contact = 'Laurie Bream'
+WHERE job_id = 8;
+
+UPDATE job_applied_2
+SET contact = 'Jack Barker'
+WHERE job_id = 9;
+
+UPDATE job_applied_2
+SET contact = 'Nelson Bighetti'
+WHERE job_id = 10;
+
+SELECT *
+FROM job_applied_2;

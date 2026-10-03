@@ -1,0 +1,5 @@
+ALTER TABLE job_applied_2
+DROP COLUMN contact_name;
+
+SELECT *
+FROM job_applied_2;
